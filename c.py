@@ -1,9 +1,9 @@
 import os
 
-APP_ID = os.environ.get("APP_ID")
-API_HASH = os.environ.get("API_HASH")
-BOT_TOKEN = os.environ.get("BOT_TOKEN")
-DB_URI = os.environ.get("DB_URI")
+APP_ID = os.environ.get("21159773")
+API_HASH = os.environ.get("49ae08543a07335e195756eba2f56e11")
+BOT_TOKEN = os.environ.get("mongodb+srv://aaroha:aaroha@cluster0.6jc4x.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DB_URI = os.environ.get("mongodb+srv://aaroha:aaroha@cluster0.6jc4x.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
 from f import *
 start_message = """<b>
